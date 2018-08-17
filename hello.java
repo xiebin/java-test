@@ -3,5 +3,9 @@ public clas hello{
     String name ;
     String weight ;
     int pages;
+    public void show()
+    {
+        println();   
+    }
 
   }
